@@ -394,7 +394,7 @@ class DTAAD_Tcn_Local(nn.Module):
 
 # Proposed Model + Tcn_Local + Transformer + MAML
 class DTAAD_Tcn_Global(nn.Module):
-    def __init__(self, feats):  # data_d:时间维度
+    def __init__(self, feats): 
         super(DTAAD_Tcn_Global, self).__init__()
         self.name = 'DTAAD_Tcn_Global'
         self.lr = lr
