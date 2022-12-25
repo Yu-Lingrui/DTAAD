@@ -365,7 +365,7 @@ class MAD_GAN(nn.Module):
         return z.view(-1), real_score.view(-1), fake_score.view(-1)
 
 
-# Proposed Model + Tcn_Global + Transformer +MAML
+# Proposed Model + Tcn_Global + Transformer + MAML
 class DTAAD_Tcn_Local(nn.Module):
     def __init__(self, feats):
         super(DTAAD_Tcn_Local, self).__init__()
@@ -457,7 +457,7 @@ class DTAAD_Callback(nn.Module):
         return x1.permute(0, 2, 1), x2.permute(0, 2, 1)
 
 
-# Proposed Model + Tcn_Local + Tcn_Global + Callback +MAML
+# Proposed Model + Tcn_Local + Tcn_Global + Callback + MAML
 class DTAAD_Transformer(nn.Module):
     def __init__(self, feats):
         super(DTAAD_Transformer, self).__init__()
@@ -487,7 +487,7 @@ class DTAAD_Transformer(nn.Module):
         return x1.permute(0, 2, 1), x2.permute(0, 2, 1)
 
 
-# Proposed Model + Tcn_Local + Tcn_Global + Callback + Transformer +MAML
+# Proposed Model + Tcn_Local + Tcn_Global + Callback + Transformer + MAML
 class DTAAD(nn.Module):
     def __init__(self, feats):
         super(DTAAD, self).__init__()
