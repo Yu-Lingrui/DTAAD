@@ -57,7 +57,6 @@ Testing DTAAD on SMAP
  'Hit@150%': 1.0,
  'NDCG@100%': 1.0,
  'NDCG@150%': 1.0,
- 'ROC/AUC': 0.9911355291994327,
  'TN': 7590,
  'TP': 748,
  'f1': 0.8995741135930116,
@@ -72,7 +71,7 @@ All outputs can be run multiple times to ensure statistical significance.
 ## License
 
 BSD-3-Clause.      
-Copyright (c) 2022, Yu Lingrui     
+Copyright (c) 2022, Lingrui Yu.     
 Copyright (c) 2022, Shreshth Tuli.   
 All rights reserved.
 
