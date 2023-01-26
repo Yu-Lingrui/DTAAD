@@ -6,7 +6,8 @@
 This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
 
 ## Results
-![Alt text](/results/result.jpeg?raw=true "results")
+![Alt text](/results/result1.png?raw=true "results")
+![Alt text](/results/result2.png?raw=true "results")
 
 ## Installation
 This code needs Python-3.7 or higher.
