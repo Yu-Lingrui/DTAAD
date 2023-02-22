@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Lingrui%2FDTAAD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DTAAD&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # DTAAD
-This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
+This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. For more information, please see:https://arxiv.org/abs/2302.10753. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
 
 ## Results
 ![Alt text](/results/result1.png?raw=true "results")
@@ -68,12 +68,23 @@ Testing DTAAD on SMAP
 
 All outputs can be run multiple times to ensure statistical significance. 
 
+## Cite this work
 
+Our paper is available in the Proceedings of arXiv: https://arxiv.org/pdf/2302.10753.pdf.
+If you use this work, please cite using the following bibtex entry.     
+*Not yet online!!!!*
+```bibtex
+@article{yu2023tdtaad,
+  title={DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data},
+  author={Yu Lingrui},
+  journal={arXiv preprint arXiv:2302.10753},
+  year={2023}
+}
+```
 ## License
 
 BSD-3-Clause.      
-Copyright (c) 2022, Lingrui Yu.     
-Copyright (c) 2022, Shreshth Tuli.   
+Copyright (c) 2022, Lingrui Yu, Shreshth Tuli.      
 All rights reserved.
 
 See License file for more details.
