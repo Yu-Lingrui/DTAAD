@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Lingrui%2FDTAAD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DTAAD&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # DTAAD
-This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. For more information, please see:https://arxiv.org/abs/2302.10753. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
+This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. For more information, please see: https://arxiv.org/abs/2302.10753. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
 
 ## Results
 ![Alt text](/results/result1.png?raw=true "results")
