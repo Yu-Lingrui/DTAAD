@@ -73,9 +73,10 @@ All outputs can be run multiple times to ensure statistical significance.
 Our paper is available in the Proceedings of arXiv: https://arxiv.org/pdf/2302.10753.pdf.
 If you use this work, please cite using the following bibtex entry.     
 ```bibtex
-@inproceedings{Yu2023DTAADDT,
+@article{yu2023dtaad,
   title={DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data},
-  author={Ling Yu},
+  author={Yu, Lingrui},
+  journal={arXiv preprint arXiv:2302.10753},
   year={2023}
 }
 ```
