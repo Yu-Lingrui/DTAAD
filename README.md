@@ -3,11 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Lingrui%2FDTAAD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DTAAD&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # DTAAD
-This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in arXiv. For more information, please see: https://arxiv.org/abs/2302.10753. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
+This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in the "Knowledge-Based Systems". For more information, please see: https://doi.org/10.1016/j.knosys.2024.111849. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
 
-## Results
-![image](https://github.com/Yu-Lingrui/DTAAD/assets/83021418/779ae142-2f3d-4b7a-bdbf-7ae4e11d0533)
-![image](https://github.com/Yu-Lingrui/DTAAD/assets/83021418/efe22df5-d80a-4087-8d46-64a2e5c267b6)
+## Model
+![DTANet](https://github.com/Yu-Lingrui/DTAAD/assets/83021418/e8e2cb4b-7a0c-4cc2-b960-b3a9f8e1de3f)
 
 ## Installation
 This code needs Python-3.7 or higher.
@@ -70,14 +69,16 @@ All outputs can be run multiple times to ensure statistical significance.
 
 ## Cite this work
 
-Our paper is available in the Proceedings of arXiv: https://arxiv.org/pdf/2302.10753.pdf.
+Our paper has been published in the "Knowledge-Based Systems"👋
 If you use this work, please cite using the following bibtex entry.     
 ```bibtex
-@article{yu2023dtaad,
-  title={DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data},
-  author={Yu, Lingrui},
-  journal={arXiv preprint arXiv:2302.10753},
-  year={2023}
+@article{yu2024dtaad,
+  title={DTAAD: Dual TCN-attention networks for anomaly detection in multivariate time series data},
+  author={Yu, Ling-rui and Lu, Qiu-hong and Xue, Yang},
+  journal={Knowledge-Based Systems},
+  pages={111849},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 ## License
