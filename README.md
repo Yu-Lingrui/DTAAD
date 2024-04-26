@@ -69,7 +69,7 @@ All outputs can be run multiple times to ensure statistical significance.
 
 ## Cite this work
 
-Our paper has been published in the "Knowledge-Based Systems"👋
+Our paper has been published in the "Knowledge-Based Systems"👋   
 If you use this work, please cite using the following bibtex entry.     
 ```bibtex
 @article{yu2024dtaad,
