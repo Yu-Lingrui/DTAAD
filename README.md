@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYu-Lingrui%2FDTAAD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=DTAAD&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # DTAAD
-This repository supplements our paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" accepted in the "Knowledge-Based Systems". For more information, please see: https://doi.org/10.1016/j.knosys.2024.111849. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
+This repository is a supplement to our preprint paper "DTAAD: Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data" published on arXiv. For more information, please see: https://arxiv.org/abs/2302.10753. This is a refactored version of the code used for results in the paper for ease of use. Follow the below steps to replicate each cell in the results table.
 
 ## Model
 ![DTANet](https://github.com/Yu-Lingrui/DTAAD/assets/83021418/e8e2cb4b-7a0c-4cc2-b960-b3a9f8e1de3f)
@@ -69,7 +69,7 @@ All outputs can be run multiple times to ensure statistical significance.
 
 ## Cite this work
 
-Our paper has been published in the "Knowledge-Based Systems"👋   
+Our final version of the paper has been accepted in the "Knowledge-Based Systems".👋   
 If you use this work, please cite using the following bibtex entry.     
 ```bibtex
 @article{yu2024dtaad,
